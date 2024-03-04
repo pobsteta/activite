@@ -1,0 +1,15 @@
+Package: activite
+Title: ACTIVITE AGENCE ALSACE
+Version: 0.0.0.9000
+Authors@R: person('Pascal', 'Obstétar', email = 'pascal.obstetar@gmail.com', role = c('cre', 'aut'))
+Description: Tableau de bord de suivi de l'activité de l'agence Alsace - Forêt d'ici.
+License: What license is it under?
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.0),
+    shiny (>= 1.8.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: https://github.com/pobsteta/activite.git
+BugReports: https://github.com/pobsteta/activite.git/issues
