@@ -3,7 +3,7 @@ Title: ACTIVITE AGENCE ALSACE
 Version: 0.0.0.9000
 Authors@R: person('Pascal', 'Obstétar', email = 'pascal.obstetar@gmail.com', role = c('cre', 'aut'))
 Description: Tableau de bord de suivi de l'activité de l'agence Alsace - Forêt d'ici.
-License: What license is it under?
+License: MIT + file LICENSE
 Imports: 
     attempt,
     config (>= 0.3.2),
